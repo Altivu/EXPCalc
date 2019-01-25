@@ -650,7 +650,7 @@ function SPToggle() {
     document.getElementById("maxHP_b").value = 50;
     document.getElementById("attack_b").value = 50;
     document.getElementById("atkRel_b").value = 2;
-    document.getElementById("atkCap_b").value = 2;
+    document.getElementById("atkCap_b").value = 3;
     document.getElementById("defense_b").value = 50;
     document.getElementById("defRel_b").value = 2;
     document.getElementById("rec_b").value = 50;
